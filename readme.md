@@ -4,7 +4,7 @@ Backend developer with a passion for architecting robust and scalable systems. M
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nipas-wongnitipat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/nipas-wongnitipat](https://www.linkedin.com/in/nipas-wongnitipat-ba904220b/))
 
 # 💻 Tech Stack:
 
