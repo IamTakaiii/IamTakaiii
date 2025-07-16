@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Backend developer with a passion for architecting robust and scalable systems. My focus is on microservices, cloud-native technologies, and everything in between. I'm a lifelong learner, constantly exploring new tools and paradigms to build better software.
+Backend developer with a passion for architecting robust and scalable systems. My focus is on microservices, backend technologies, and everything in between. I'm a lifelong learner, constantly exploring new tools and paradigms to build better software.
 
 ## 🌐 Socials:
 
